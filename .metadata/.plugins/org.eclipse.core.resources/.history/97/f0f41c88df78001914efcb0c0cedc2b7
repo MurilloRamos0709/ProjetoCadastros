@@ -1,0 +1,17 @@
+package com.cadproduto.dominio;
+
+public class produto {
+	
+	private int id;
+	private String NomeDoProduto;
+	private String DescricaoDoProduto;
+	private String FabricanteDoProduto;
+	private int Quantidade;
+	private double preco;
+	
+	public produto() {
+	
+	}
+}
+
+
